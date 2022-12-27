@@ -10,6 +10,6 @@
 
 <style>
 
-
+    @import "./Styles.css";
 
 </style>
